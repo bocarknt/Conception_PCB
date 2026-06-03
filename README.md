@@ -1,6 +1,6 @@
 # Conception PCB – STM32F031K6T7 Système Embarqué
 
-![KiCad](https://img.shields.io/badge/KiCad-7.x-blue) ![Statut](https://img.shields.io/badge/Statut-Validé-green)
+![KiCad](https://img.shields.io/badge/KiCad-9.x-blue) ![Statut](https://img.shields.io/badge/Statut-Validé-green)
 
 Carte PCB personnalisée conçue pour un nœud IoT embarqué basé sur le microcontrôleur **STM32F031K6T7**. Réalisée avec **KiCad** dans le cadre d'un cours de conception de PCB pour systèmes embarqués.
 
