@@ -112,7 +112,7 @@ Commande de flashage :
 
 ## Références
 
-- [Fiche technique SHT31 – Sensirion](https://sensirion.com/products/catalog/SHT31-DIS/)
+- [Fiche technique SHT31 – Sensirion](https://raw.githubusercontent.com/SeeedDocument/Grove-TempAndHumi_Sensor-SHT31/master/res/Grove-TempAndHumi_Sensor-SHT31-Datasheets.zip)
 - [Fiche technique FT232R – FTDI](https://ftdichip.com/wp-content/uploads/2020/08/DS_FT232R.pdf)
 - [Fiche technique STM32F031K6 – ST](https://www.st.com/en/microcontrollers-microprocessors/stm32f031k6.html)
 - [Connecteur SWD CN4 Nucleo – ST UM1724](https://www.st.com/resource/en/user_manual/um1724-stm32-nucleo64-boards-mb1136-stmicroelectronics.pdf)
