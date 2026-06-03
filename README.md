@@ -123,7 +123,7 @@ Commande de flashage :
 
 ![Vue dessus](media/pcb_top.png)
 ![Vue dessous](media/pcb_bottom.png)
-![Carte prete](media/carte_pcb_.jpeg)
+![Carte prete](media/carte_pcb.jpeg)
 
 ---
 
