@@ -96,7 +96,9 @@ Commande de flashage :
 └── media/
     ├── pcb_top.png           # Photo vue dessus
     ├── pcb_bottom.png         # Photo vue dessous
-    ├── carte_pcb.jpeg
+    ├── carte_pcb.jpeg         #photo de la carte avec les composants soudés
+    ├── schema.png             #capture du Schématique
+    ├── routage.png            # capture du routage
     └── demo.mp4               # Vidéo de démonstration
 ```
 
